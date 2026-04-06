@@ -18,6 +18,7 @@ Register to attend here:
 
 [https://www.eventbrite.co.uk/e/owasp-london-chapter-meetup-in-person-tickets-1986801166773](https://www.eventbrite.co.uk/e/owasp-london-chapter-meetup-in-person-tickets-1986801166773?aff=ws)
 
+[//]: # (Comment: When updating the next event info also update the homepage)
 
 
 ---
